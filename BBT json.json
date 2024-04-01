@@ -1,0 +1,15 @@
+{
+  "name": "Bubble Tea",
+  "symbol": "BBT",
+  "description": "Best Token :), bubble tea token !!",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-watercolor-bubble-ice-tea_47987-13496.jpg?w=826&t=st=1712001997~exp=1712002597~hmac=263381fac59fe023f1b24c8219eafa38d194c227204ff8dd5a3ff64ef79597be",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://img.freepik.com/free-vector/hand-drawn-watercolor-bubble-ice-tea_47987-13496.jpg?w=826&t=st=1712001997~exp=1712002597~hmac=263381fac59fe023f1b24c8219eafa38d194c227204ff8dd5a3ff64ef79597be",
+        "type": "image/png"
+      }
+    ]
+  }
+}
